@@ -1,1 +1,1 @@
-FROM lscr.io/linuxserver/freshrss:latest
+FROM bfren/freshrss:latest
