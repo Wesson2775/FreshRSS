@@ -17,3 +17,5 @@ services:
       - BF_FR_DB_PREFIX=fr
     ports:
       - "10000:80"
+    volumes:
+      - /data/freshrss-config:/data
